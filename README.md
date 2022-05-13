@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 <div align="center">
- <img src="https://github.com/RaheemAmer/First-Time-Contributors-Arabs-Edition/blob/main/Cover-Image/Github%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.gif" width="550" height="300"/>
+ <img src="https://github.com/RaheemAmer/First-Time-Contributors-Arabs-Edition/blob/main/Cover-Image/Github%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.gif" width="800" height="450"/>
  </div>
  
 # <div dir="rtl"> مرحبا بك في عالم المصادر المفتوحة 💌</div>
