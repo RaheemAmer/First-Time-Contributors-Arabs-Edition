@@ -26,7 +26,7 @@
 
 
 <div dir="rtl">
-اذا لم يكن لديك علي جهازك نظام التحكم Git فتفضل بقراءة تلك المقالة, وعاود الرجوع الينا <a href="https://help.github.com/articles/set-up-git/">كيف تعد Git ؟ </a>
+اذا لم يكن لديك علي جهازك نظام التحكم Git فتفضل بقراءة تلك المقالة, وعاود الرجوع الينا <a href="https://tech-echo.com/2021/10/git-basic-best-practices-gitflow//">كيف تعد Git ؟ </a>
 </div>
 <br>
 
