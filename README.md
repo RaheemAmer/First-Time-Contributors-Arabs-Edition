@@ -186,4 +186,6 @@ git push origin "add-your-name"
  تهانينا الحارة! لقد اكملت الاجراءات المعتاده (`fork -> clone -> edit -> pull request`) لكي تصبح جاهز للمشاركة في اي مشروع مفتوح المصدر
 <div dir="rtl">
  
- 
+ ## <div dir="rtl">مصادر للتعلم منها </div>
+اذا تريد, فيمكنك القاء نظرة علي تلك [المصادر لمساعدتك](https://github.com/RaheemAmer/Self-study)
+<div dir="rtl">
