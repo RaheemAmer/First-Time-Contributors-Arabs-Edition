@@ -187,7 +187,7 @@ git push origin "add-your-name"
 <div dir="rtl">
  
  ## <div dir="rtl">مصادر للتعلم منها </div>
-اذا تريد, فيمكنك القاء نظرة علي تلك [المصادر لمساعدتك](https://github.com/RaheemAmer/Self-study)
+اذا تريد, فيمكنك القاء نظرة علي تلك [المصادر لمساعدتك](https://training.github.com/downloads/ar/github-git-cheat-sheet/)
 <div dir="rtl">
  
  <div dir="rtl">
